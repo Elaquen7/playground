@@ -13,4 +13,4 @@ One more line of text.
 
 Testing branches.
 
-GPG on different systems. Exciting!
+GPG on different systems.
