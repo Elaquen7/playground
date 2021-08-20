@@ -1,5 +1,5 @@
 # playground
-My playground to mess around with stuff.  
+A playground to test my configs and stuff  
 This is a README file.  
 This is a line of text.  
 This is another line of text.  
