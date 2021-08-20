@@ -8,5 +8,5 @@ One more line of text.
 Testing branches.  
 GPG on different systems.  
 Even more commits! Woohoo!  
-Hmmm...
+Hmmm...  
 I am a line of text
