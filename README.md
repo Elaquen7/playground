@@ -13,5 +13,5 @@ I am a line of text
 Hello there!  
 (Insert pop culture reference here)  
 https://youtu.be/dQw4w9WgXcQ  
-The quick brown fox jumps over the lazy dog
+The quick brown fox jumps over the lazy dog.  
 This sentence is false.
